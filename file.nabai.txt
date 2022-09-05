@@ -1,8 +1,1 @@
-hellow
-<<<<<<< HEAD
-hejdå
-=======
-hej då
->>>>>>> 1c3e5ce9a728a791cf2cb17f867c8a059b3eaecb
-test
-test2
+New Test
